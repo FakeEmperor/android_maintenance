@@ -1,0 +1,317 @@
+#####################################
+# Google shit
+#####################################
+com.android.chrome  # Chrome
+com.android.hotwordenrollment.okgoogle
+com.android.hotwordenrollment.xgoogle
+com.google.android.apps.maps  # Google maps
+com.google.android.apps.restore
+com.google.android.apps.turbo  # Device Health Services
+com.google.android.backuptransport
+com.google.android.configupdater
+com.google.android.ext.services
+com.google.android.ext.shared
+com.google.android.feedback
+com.google.android.gm  # GMail
+com.google.android.setupwizard  # Android Setup which fucks you
+com.google.android.apps.docs  # Google Drive
+com.google.android.apps.tachyon  # Google Duo
+# com.google.android.gsf  # Google Services Framework -- DO NOT DELETE FOR PUSH TO WORK
+# com.google.android.gms  # Google Mobile Services -- DO NOT DELETE FOR PUSH TO WORK :(
+com.google.android.gms.policy_sidecar_aps
+com.google.android.gms.location.history  # Google Location History
+com.google.android.overlay.gmsgsaconfig
+com.google.android.overlay.gmsconfig
+com.google.android.googlequicksearchbox  # Google quick search box
+com.google.android.onetimeinitializer
+# com.android.vending # Google App Store - DO NOT DELETE
+# com.google.android.packageinstaller  # Package Installer - DO NOT DELETE
+com.google.android.partnersetup  # Integrations with Google Services https://android.stackexchange.com/questions/122345/what-is-google-partner-setup
+com.google.android.syncadapters.calendar
+com.google.android.syncadapters.contacts
+com.google.android.tts  # Text to Speech
+com.google.android.youtube  # Google Youtube
+com.google.ar.core  # AR Core Google
+com.google.android.music  # Google Music
+com.google.android.printservice.recommendation  # Print Spooler from Google
+# com.google.android.overlay.modules.ext.services
+# com.google.android.modulemetadata
+# com.google.android.overlay.modules.permissioncontroller
+# com.google.android.overlay.modules.permissioncontroller.forframework
+
+####################################
+# ANT service is a radio service (FM) / Wireless service
+####################################
+com.dsi.ant.plugins.antplus
+com.dsi.ant.sample.acquirechannels
+com.dsi.ant.server
+com.dsi.ant.service.socket
+
+####################################
+# Samsung Shit
+####################################
+com.sec.location.nsflp2  # Samsung Location SDK
+com.sec.android.app.health  # Samsung Health
+com.sec.android.app.sbrowser  # Samsung Browser
+com.samsung.android.voc  # Samsung Members
+com.samsung.android.app.notes  # Samsung Notes
+com.samsung.android.spay  # Samsung Pay
+com.sec.android.easyMover  # Smart Switch
+com.samsung.android.oneconnect  # Smart Things
+com.sec.android.app.voicenote  # Voice Recorder
+# com.samsung.android.kgclient # DO NOT DELETE
+com.samsung.android.email.provider  # Samsung Provider
+com.samsung.android.bbc.bbcagent   # Seems like a tracking tool https://www.hybrid-analysis.com/sample/379ca861bebed755d8ddf9a8fff78a0dd46f7ac0f1a31927347dc28a99c24e64?environmentId=200
+com.samsung.android.beaconmanager  # Bluetooth BLE Beacons for Tracking offline when bluetooth enabled. FOR FUCK'S SAKE, JUST STAHP!
+com.samsung.android.drivelink.stub  # Stub for the Drive Link
+com.samsung.android.app.watchmanagerstub  # Stubs for other applications
+com.samsung.android.mateagent  # Search nearby devices
+com.samsung.android.app.galaxyfinder  # Galaxy Friends
+com.samsung.android.emojiupdater  # Emoji Updater? Seriously?
+# com.samsung.android.fmm   # Find my phone
+com.sec.android.easyMover  # Easy Mover
+com.sec.android.easyMover.Agent  # Easy Mover Between Samsung Devices
+com.sec.android.app.dexonpc # Samsung DEX
+com.sec.android.app.samsungapps  # Samsung App Store
+com.sec.android.app.apex  # Samsung APEX (Google Glass Analog)
+com.sec.android.diagmonagent  # DiagMonAgent
+com.sec.android.app.vepreload  # Video Editor
+com.sec.android.app.ve.vebgm  # Video Editor
+# com.osp.app.signin  # Samsung Account
+com.sec.android.app.samsungapps  # Samsung Apps
+com.samsung.android.samsungpass  # Samsung Pass
+com.samsung.android.samsungpassautofill  # Samsung Pass
+com.samsung.android.app.simplesharing # Samsung Sharing
+com.samsung.android.app.sharelive  # Quick Share
+com.samsung.android.aware.service  # Quick Share Service
+com.samsung.android.allshare.service.fileshare   # I'm not going to share files with anyone, so...
+com.samsung.android.allshare.service.mediashare
+com.samsung.android.knox.analytics.uploader  # Oh, so just analytics in a separate app? Huh...
+com.samsung.android.svoiceime  # Samsung S Voice (Like Bixby)
+com.samsung.rcs  # RCS Messaging (like SMS)
+com.samsung.mlp  # Samsung Mobile Location Provider for Samsung Apps
+com.samsung.aasaservice  # AASA Service
+com.sec.android.app.chromecustomizations # Chrome intrusion, like a meta-virus. Ok.
+com.samsung.cmh  # Camera Media Handler? https://www.reddit.com/r/GalaxyS7/comments/5tki1k/comsamsungcmh_kills_my_battery/
+com.samsung.storyservice # Samsung Process monitor
+com.samsung.ipservice  # Something related to camera and pictures
+com.samsung.crane  # Screen Pen writing
+com.samsung.android.ipsgeofence  # In-door positioning system
+com.samsung.android.app.mirrorlink  # Mirror Link for Samsung TV
+com.samsung.android.ardrawing  # AR Draw (Why, why??)
+com.samsung.android.app.cocktailbarservice  # Cocktail Bar Service is needed for Flip Case to show something
+com.samsung.android.app.omcagent  # Samsung Config Update
+# com.samsung.android.app.smartcapture  # Screen Capture
+com.samsung.android.easysetup # Connect Samsung Devices wizard
+com.diotek.sec.lookup.dictionary # Custome Keyboard dictionaries
+com.samsung.android.keyguardwallpaperupdator  # New lock-screen wallpapers
+# com.samsung.android.lool  # Device Care
+com.samsung.android.sdk.handwriting  # Handwriting SDK
+com.samsung.android.bio.face.service  # Face Unlock
+com.samsung.android.smartcallprovider  # Samsung Anti Spam
+com.samsung.android.rubin.app  # Analytics
+com.samsung.android.scloud  # Samsung cloud
+com.sec.android.app.kidshome  # Kids Home
+# com.samsung.android.smartface  # Samsung face unlock
+com.samsung.android.smartfitting  # Samsung fitness?
+com.samsung.android.smartmirroring  # Screen mirroring for Samsung TV
+com.samsung.android.smartswitchassistant  # Smart switch
+com.samsung.android.spayfw  # Samsung pay
+com.samsung.android.tapack.authfw # Samsung pass
+com.sec.android.app.popupcalculator  # Calculator
+com.samsung.faceservice  # Face recognition?
+com.samsung.android.shortcutbackupservice # ShortcutBNR (what??)
+com.samsung.android.aircommandmanager # S Pen Features
+com.samsung.android.networkdiagnostic  # Network Diagnostic
+# com.sec.android.sdhms  # Samsung Device health manager
+# com.sec.android.service.health # Samsung Device Health
+com.sec.android.daemonapp # Daemon App (weather, S Services)
+com.sec.android.easyonehand  # Easy OneHand
+com.sec.android.inputmethod.beta  # Beta Samsung Keyboard (includes tracking, I presume)
+com.samsung.android.honeyboard  # Honey Board (Keyboard)
+com.sec.android.widgetapp.easymodecontactswidget  # Contacts?
+com.sec.android.widgetapp.samsungapps  # Galaxy Store
+com.samsung.android.app.dressroom  # Dress Room
+com.samsung.android.app.interactivepanoramaviewer  # Interactive Panorama Viewer
+
+###################################
+# Core modules
+##################################
+com.sec.android.app.clockpackage
+com.samsung.android.app.contacts  # Contacts
+com.samsung.android.calendar  # Calendar
+# com.samsung.android.incallui  # In-Call UI - DO NOT DELETE
+com.samsung.android.messaging  # Messages
+com.samsung.android.dialer # Phone
+com.sec.android.app.myfiles # My Files
+com.sec.android.app.soundalive  # Sound Alive?
+com.sec.android.app.DataCreate
+
+##################################
+# Samsung Bixby
+##################################
+com.samsung.android.app.spage # Bixby in Home Screen?
+com.samsung.android.app.settings.bixby
+com.samsung.android.visionintelligence  # Bixby vision intelligence
+com.samsung.android.bixby.agent
+com.samsung.android.bixby.agent.dummy
+com.samsung.android.bixby.service
+com.samsung.android.bixby.wakeup
+com.samsung.android.bixbyvision.framework
+# Camera shit -- AR & Stickers
+com.samsung.android.app.camera.sticker.facear.preload
+com.samsung.android.app.camera.sticker.facearexpression.preload
+com.samsung.android.app.camera.sticker.facearavatar.preload
+com.samsung.android.app.camera.sticker.facearframe.preload
+com.samsung.android.app.camera.sticker.stamp.preload
+com.samsung.android.livestickers
+com.samsung.android.themestore  # Themes S
+com.samsung.android.aremoji  # AR Emojis
+com.samsung.android.visionarapps  # Makup home decor? WHat?
+com.samsung.android.aremojieditor  # AR Emoji
+com.samsung.android.arzone   # AR Zone
+
+# VR Service
+com.samsung.android.hmt.vrsvc
+com.sec.android.autodoodle.service  # AR Doodle
+com.google.android.projection.gearhead  # GEAR Head
+
+##################################
+# Game Services
+##################################
+com.samsung.android.game.gamehome
+com.samsung.android.game.gametools
+com.enhance.gameservice
+com.samsung.android.game.gos  # Game Optimization Service
+com.samsung.android.game.gos  # Game Mode
+
+####################################
+# Other and unknown
+####################################
+
+com.sec.android.app.billing
+com.samsung.android.wellbeing
+com.sec.spp.push
+com.samsung.android.kidsinstaller
+flipboard.boxer.app
+com.samsung.android.app.reminder
+com.samsung.android.mdecservice
+com.samsung.android.stickercenter
+com.sec.android.easyMover.Agent  # Sasmung Easy Mover
+com.samsung.android.app.social
+com.samsung.android.fast # Samsung vpn "secured wifi"
+
+####################################
+# Faceboo
+####################################
+com.facebook.services
+com.facebook.system
+com.facebook.appmanager
+com.facebook.katana
+
+###################################
+# Samsung Pass
+###################################
+com.samsung.android.samsungpass
+com.samsung.android.samsungpassautofill
+com.samsung.android.authfw
+com.samsung.android.tapack.authfw
+com.samsung.android.mobileservice
+
+#################################
+# Firmware Stuff
+################################
+
+com.hiya.star  # Hiya App - Anti Spam
+com.microsoft.appmanager  # Microsoft shit
+com.microsoft.office.officehubrow  # Microsoft shit
+com.microsoft.skydrive  # Microsoft shit
+ru.yandex.searchplugin  # Yandex shit
+com.android.providers.partnerbookmarks  # Partner analytics
+com.sec.unifiedwfc  # WiFi calling
+
+com.sec.android.gallery3d  # Gallery
+com.sec.android.mimage.gear360editor  # 360 EDITOR
+com.sec.android.mimage.photoretouching  #
+
+com.linkedin.android
+com.mygalaxy
+com.eterno
+com.opera.max.oem
+com.opera.max.preinstall
+com.osp.app.signin
+com.aura.oobe.samsung
+com.samsung.logwriter
+com.samsung.android.airtel.stubapp
+com.samsung.android.spaymini
+com.sec.android.widgetapp.webmanual
+com.samsung.visionprovider
+com.samsung.SMT  # Samsung TTS
+com.samsung.android.mfi
+com.google.android.apps.tachyon
+com.sec.android.app.chromecustomizations
+com.samsung.android.mcfserver # Samsung Multi Connectivity
+
+# com.samsung.accessibility  # Seems that this is a must? - DO NOT DELETE
+
+com.samsung.android.uds # ( ultra data saving )
+com.sec.android.daemonapp # ( weather app: https://www.samsung.com/uk/support/mobile-devices/what-does-the-unified-daemon-app-do/ )
+# com.wsomacp  # Service SMS - DO NOT DELETE
+com.sec.mhs.smarttethering
+com.sec.android.mimage.avatarstickers
+com.sec.android.desktopmode.uiservice
+com.sec.android.app.desktoplauncher
+com.samsung.desktopsystemui
+com.samsung.android.service.livedrawing
+com.samsung.android.service.peoplestripe
+
+################################################
+# Samsung Media Devices - Simultaneous sound on multiple headsets
+################################################
+# com.samsung.android.mdx.quickboard
+# com.samsung.android.mdx
+# com.samsung.android.mdx.kit
+
+################################################
+# Android Packages after Android 11 update
+################################################
+# com.samsung.android.da.daagent  # Dual Messenger - Useful feature
+# com.samsung.android.app.routines # (samsung workflow, can be usefull)
+
+
+################################################
+# Android Packages after Android 10 update
+################################################
+com.android.ons  # ONS
+com.samsung.android.cidmanager  # Campaign ID manager
+com.android.dreams.basic  # Android Dreams
+com.android.dreams.phototable  # Android Dreams
+com.android.dynsystem  # Android DSU  https://source.android.com/devices/tech/ota/dynamic-system-updates
+com.android.egg  # Easter Egg
+com.android.hotspot2  # Hotspot 2 support
+com.samsung.android.forest  # Parental control
+com.samsung.android.lwe  # Unknown application
+# com.samsung.android.server.wifi.mobilewips.client  # Wifi UI - DO NOT DELETE
+# com.sec.android.RilServiceModeApp  # -- RIL Radio Interface Layer - DO NOT DELETE
+##########################################
+# Gestures support in navbar
+#########################################
+com.android.internal.systemui.navbar.gestural
+com.android.internal.systemui.navbar.gestural_extra_wide_back
+com.android.internal.systemui.navbar.gestural_narrow_back
+com.android.internal.systemui.navbar.gestural_wide_back
+com.android.internal.systemui.navbar.threebutton
+com.android.internal.systemui.navbar.twobutton
+
+com.android.bookmarkprovider  # Bookmark provider
+com.android.companiondevicemanager  # Companion device manager
+com.monotype.android.font.foundation  # Font foundation
+com.monotype.android.font.samsungone  # Samsung one
+com.sec.android.emergencylauncher  # launcher
+
+
+###############################################################################
+# Questionable but unblocked
+###############################################################################
+# com.samsung.android.motionphoto.viewer  # This is used for Motion Photos
+# com.samsung.android.singletake.service  # This enables Single Take Photos

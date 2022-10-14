@@ -1,0 +1,8 @@
+.vscode/
+.mypy_cache/
+*.pyc
+backups/
+apks/
+apk_lists/
+*_autogen.sh
+apks.temp.uid*.txt
